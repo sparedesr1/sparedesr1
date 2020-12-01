@@ -1,0 +1,14 @@
+body {
+  background-color:#2E2E2E
+}
+
+p {
+  color:#D8F781
+}
+
+.destacado{
+  font-family:"Arial";
+  font-style:italic;
+  font-size: 30px;
+  color:#FFBF00
+}
